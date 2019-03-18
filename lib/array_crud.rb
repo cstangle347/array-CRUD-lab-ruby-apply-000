@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
- days = ["Monday", "Tuesday", "Wednesday", "Friday"]
+ days = ["Monday", "Tuesday", "Wednesday", "Thursday"]
 end
 
 def add_element_to_end_of_array(array, element)
-  days.push("Saturday")
+  days.push("Friday")
 end
 
 def add_element_to_start_of_array(array, element)
