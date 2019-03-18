@@ -1,5 +1,5 @@
 def create_an_empty_array
-  days = []
+  days = Ary
 end
 
 def create_an_array
