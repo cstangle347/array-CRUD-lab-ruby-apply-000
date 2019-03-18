@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  days.unshift("Sunday")
+  array.unshift("do")
 end
 
 def remove_element_from_end_of_array(array)
