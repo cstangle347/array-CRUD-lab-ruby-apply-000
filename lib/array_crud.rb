@@ -1,5 +1,5 @@
 def create_an_empty_array
-  days = Ary
+  days = Array.new
 end
 
 def create_an_array
